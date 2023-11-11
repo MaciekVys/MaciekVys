@@ -1,4 +1,3 @@
-![MasterHead](https://www.dignited.com/wp-content/uploads/2022/08/top10lan.jpg)
 <h1 align="center">Hi 👋, I'm Maciej Wysocki</h1>
 <h3 align="center">Student of the University of Warmia and Mazury</h3>
 <img align="right" alt="Coding"  src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
